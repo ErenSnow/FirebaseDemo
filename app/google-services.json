@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947239013504",
+    "firebase_url": "https://erensnow-44210.firebaseio.com",
+    "project_id": "erensnow-44210",
+    "storage_bucket": "erensnow-44210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947239013504:android:8497305e9395384fdaea65",
+        "android_client_info": {
+          "package_name": "com.eren.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947239013504-u5qe7duqcc01a8qup9h22h6831p8c18i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eren.firebasedemo",
+            "certificate_hash": "6f4c5489e53bfd1c1e649d86e12e894f2e9d8473"
+          }
+        },
+        {
+          "client_id": "947239013504-iorb9if8v5jtd2ap3v725onv5apdjufj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkAl9OxD3m0hYdV4itId5oKLpdH1SRv8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947239013504-iorb9if8v5jtd2ap3v725onv5apdjufj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
